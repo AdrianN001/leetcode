@@ -3,3 +3,5 @@
 The answers are mainly written in Python due to it is the language which I'm most comfortable with. 
 
 I recently hit 100 "problems solved" while there are far less created and uploaded to this repo.
+
+![Weird](https://i.imgur.com/kcpFt89.png)
